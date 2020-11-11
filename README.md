@@ -1,5 +1,13 @@
 # Could-Avoid
 
+## Top 5 desirable functionalities:
+1.	Map search hospital
+2.	Online chat
+3.	Scan users nearby
+4.	Personal Information capture
+5.	Place traveled
+
+
 ## Start Page		
   This is the start page for the App, it contains the title of the app and short description.
   ![Screenshot](1.png)
@@ -35,3 +43,5 @@
 ## Profile (Personal Info, People Nearby, Travel History) 
   Users' personal Information, can be modified. See the place traveled recetly and people nearby.
   ![Screenshot](10.png)
+## Walkthrough Video:
+https://youtu.be/C1NZEqOZ6I0
